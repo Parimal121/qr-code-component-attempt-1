@@ -1,0 +1,40 @@
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+
+
+
+.main{
+    background-color: hsl(0, 0%, 100%);
+    width: 200px;
+    height: 325px;
+    margin: auto;
+    border-radius: 10px;
+}
+img{
+    width: 180px;
+    height: 180px;
+    border-radius: 5px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+.dark{
+    color:  hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 900;
+    margin-top: 25px;
+}
+
+.faint{
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-size: 11px;
+    letter-spacing: 0;
+}
